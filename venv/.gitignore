@@ -1,0 +1,11 @@
+# On ignore les environnements virtuels
+venv/
+.venv/
+env/
+
+# On ignore les fichiers de cache Python
+__pycache__/
+*.pyc
+
+# On ignore les dossiers de configuration Streamlit
+.streamlit/
